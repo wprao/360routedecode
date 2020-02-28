@@ -1,0 +1,18 @@
+995	17.443962952	192.168.0.6	192.168.0.1	HTTP	543	GET /router/get_rand_key.cgi?noneed=noneed&_=1582705310988 HTTP/1.1 
+998	17.473808632	192.168.0.1	192.168.0.6	HTTP	275	HTTP/1.1 200 OK  (text/plain)
+1005	17.487427479	192.168.0.6	192.168.0.1	HTTP	710	POST /router/web_login.cgi HTTP/1.1  (application/x-www-form-urlencoded)
+
+
+get randkey  
+"rand_key":"f1d17e97662326f21255ab8fe7ecf4f2b28125b3849e6bf3683577ae69dc8eb1"
+
+pass 
+"pass" = "f1d17e97662326f21255ab8fe7ecf4f2fc10f365765a541ead9cf70568a3253d"
+
+
+
+
+{"rand_key":"708501d193ff76cc445b54fe9552716ed3504e098763b3d7189e71eba6c4e24d"}
+
+708501d193ff76cc445b54fe9552716e4263e71bc923a6a4a37f3544ac453285
+
